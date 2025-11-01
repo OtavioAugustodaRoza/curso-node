@@ -19,3 +19,4 @@ Este repositório é dedicado ao meu aprendizado no **curso de Node.js do CFB Cu
 Meu objetivo com este curso é **entender o funcionamento do Node**, **aprender a criar aplicações no servidor** e **me aprofundar no Express.js**, para futuramente construir projetos completos com frontend e backend.
 
 ---
+Curso do canal CFB Cursos
